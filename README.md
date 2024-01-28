@@ -6,6 +6,7 @@ Introduction
 Welcome to Wizcoin, a simple Python-based cryptocurrency project designed to help users understand the fundamentals of blockchain technology. This project aims to provide a hands-on learning experience for those interested in exploring how cryptocurrencies work at a basic level.
 
 Features
+
 Blockchain Implementation: Utilizes a basic blockchain structure to store transactions.
 
 Proof of Work (PoW): Implements a simple Proof of Work consensus algorithm for adding blocks to the blockchain.
